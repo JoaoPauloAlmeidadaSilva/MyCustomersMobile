@@ -1,0 +1,23 @@
+primeiro/cliente/gestaoclientes/SplashActivity.java
+ primeiro.cliente.gestaoclientes.SplashActivity
+ primeiro.cliente.gestaoclientes.SplashActivity$1
+primeiro/cliente/gestaoclientes/TelaPrincipal.java
+ primeiro.cliente.gestaoclientes.TelaPrincipal
+ primeiro.cliente.gestaoclientes.TelaPrincipal$1
+ primeiro.cliente.gestaoclientes.TelaPrincipal$2
+primeiro/cliente/gestaoclientes/MainActivity.java
+ primeiro.cliente.gestaoclientes.MainActivity
+primeiro/cliente/gestaoclientes/FormLogin.java
+ primeiro.cliente.gestaoclientes.FormLogin
+ primeiro.cliente.gestaoclientes.FormLogin$1
+ primeiro.cliente.gestaoclientes.FormLogin$2
+ primeiro.cliente.gestaoclientes.FormLogin$3
+ primeiro.cliente.gestaoclientes.FormLogin$3$1
+primeiro/cliente/gestaoclientes/FormCadUsuario.java
+ primeiro.cliente.gestaoclientes.FormCadUsuario
+ primeiro.cliente.gestaoclientes.FormCadUsuario$1
+ primeiro.cliente.gestaoclientes.FormCadUsuario$2
+ primeiro.cliente.gestaoclientes.FormCadUsuario$3
+ primeiro.cliente.gestaoclientes.FormCadUsuario$4
+primeiro/cliente/gestaoclientes/BuildConfig.java
+ primeiro.cliente.gestaoclientes.BuildConfig
